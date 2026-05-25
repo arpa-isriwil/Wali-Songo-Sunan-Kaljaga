@@ -1,0 +1,6 @@
+{
+  "name": "Sunan Kalijaga - Jejak Langkah Sang Penjaga",
+  "description": "Website sederhana dan informatif mengenai persebaran jejak Sunan Kalijaga di tanah Jawa melalui peta interaktif.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
